@@ -1,2 +1,0 @@
-# orgchartvue
-Created with CodeSandbox
